@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="WTT-ClientCommonLib" Version="2.0.15" />
+    <PackageReference Include="WTT-ServerCommonLib" Version="2.0.15" />
+  </ItemGroup>
+
+</Project>

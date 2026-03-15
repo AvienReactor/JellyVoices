@@ -1,0 +1,14 @@
+{
+    "manifest":[
+        {
+            "key": "voices/Jerma/Audio/jerma_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Jerma/Voices/jerma_voice.bundle",
+            "dependencyKeys": [
+                "voices/Jerma/Audio/jerma_audio.bundle"
+            ]
+        }
+    ]
+}

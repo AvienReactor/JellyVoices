@@ -1,0 +1,10 @@
+{
+  "690de7656fed179852fba257": {
+    "locales": {
+      "en": "Jerma"
+    },
+    "name": "Jerma",
+    "bundlePath": "voices/Jerma/Voices/jerma_voice.bundle",
+    "addVoiceToPlayer": true
+  }
+}
