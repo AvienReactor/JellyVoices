@@ -9,6 +9,26 @@
             "dependencyKeys": [
                 "voices/Jerma/Audio/jerma_audio.bundle"
             ]
+        },
+        {
+            "key": "voices/Hunk/Audio/hunk_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Hunk/Voices/hunk_voice.bundle",
+            "dependencyKeys": [
+                "voices/Hunk/Audio/hunk_audio.bundle"
+            ]
+        },
+        {
+            "key": "voices/Leon/Audio/leon_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Leon/Voices/leon_voice.bundle",
+            "dependencyKeys": [
+                "voices/Leon/Audio/leon_audio.bundle"
+            ]
         }
     ]
 }

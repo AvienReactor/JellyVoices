@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lu7+QFsBc40=",
+  "dgSpecHash": "e6qzWtebmRg=",
   "success": true,
-  "projectFilePath": "F:\\Tarkov_SPT\\VoiceModding\\Jerma\\Jelly.csproj",
+  "projectFilePath": "F:\\Tarkov_SPT\\JellyVoicesGithub\\JellyVoices\\VisualStudioProject\\Jelly.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robot\\.nuget\\packages\\fastcloner\\3.3.16\\fastcloner.3.3.16.nupkg.sha512",
     "C:\\Users\\Robot\\.nuget\\packages\\jetbrains.annotations\\2025.2.2\\jetbrains.annotations.2025.2.2.nupkg.sha512",

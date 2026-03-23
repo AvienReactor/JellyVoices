@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Tarkov_SPT\\VoiceModding\\Jerma\\Jelly.csproj",
+      "projectUniqueName": "F:\\Tarkov_SPT\\JellyVoicesGithub\\JellyVoices\\VisualStudioProject\\Jelly.csproj",
       "projectName": "Jelly",
-      "projectPath": "F:\\Tarkov_SPT\\VoiceModding\\Jerma\\Jelly.csproj",
+      "projectPath": "F:\\Tarkov_SPT\\JellyVoicesGithub\\JellyVoices\\VisualStudioProject\\Jelly.csproj",
       "packagesPath": "C:\\Users\\Robot\\.nuget\\packages\\",
-      "outputPath": "F:\\Tarkov_SPT\\VoiceModding\\Jerma\\obj\\",
+      "outputPath": "F:\\Tarkov_SPT\\JellyVoicesGithub\\JellyVoices\\VisualStudioProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

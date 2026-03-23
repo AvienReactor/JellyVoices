@@ -8,7 +8,7 @@ namespace JellyVoicesWawa;
 
 public record ModMetadata : AbstractModMetadata
 {
-    public override string ModGuid { get; init; } = "com.jejukon.jerma";
+    public override string ModGuid { get; init; } = "com.jejukon.jellyvoices";
     public override string Name { get; init; } = "Jelly Voices";
     public override string Author { get; init; } = "Jejukon";
     public override SemanticVersioning.Version Version { get; init; } = new("1.0.0");

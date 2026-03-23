@@ -10,3 +10,16 @@ F:\Tarkov_SPT\VoiceModding\Jerma\obj\Debug\net9.0\Jelly.dll
 F:\Tarkov_SPT\VoiceModding\Jerma\obj\Debug\net9.0\refint\Jelly.dll
 F:\Tarkov_SPT\VoiceModding\Jerma\obj\Debug\net9.0\Jelly.pdb
 F:\Tarkov_SPT\VoiceModding\Jerma\obj\Debug\net9.0\ref\Jelly.dll
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\bin\Debug\net9.0\Jelly.deps.json
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\bin\Debug\net9.0\Jelly.dll
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\bin\Debug\net9.0\Jelly.pdb
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.csproj.AssemblyReference.cache
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.GeneratedMSBuildEditorConfig.editorconfig
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.AssemblyInfoInputs.cache
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.AssemblyInfo.cs
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.csproj.CoreCompileInputs.cache
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.sourcelink.json
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.dll
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\refint\Jelly.dll
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\Jelly.pdb
+F:\Tarkov_SPT\JellyVoicesGithub\JellyVoices\VisualStudioProject\obj\Debug\net9.0\ref\Jelly.dll

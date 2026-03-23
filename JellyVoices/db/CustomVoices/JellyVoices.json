@@ -6,5 +6,21 @@
     "name": "Jerma",
     "bundlePath": "voices/Jerma/Voices/jerma_voice.bundle",
     "addVoiceToPlayer": true
+  },
+  "690de7656fad179852fba257": {
+    "locales": {
+      "en": "Hunk"
+    },
+    "name": "Hunk",
+    "bundlePath": "voices/Hunk/Voices/hunk_voice.bundle",
+    "addVoiceToPlayer": true
+  },
+  "690de7656fbd179852fba257": {
+    "locales": {
+      "en": "Leon"
+    },
+    "name": "Leon",
+    "bundlePath": "voices/Leon/Voices/leon_voice.bundle",
+    "addVoiceToPlayer": true
   }
 }
