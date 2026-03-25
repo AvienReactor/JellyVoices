@@ -29,6 +29,16 @@
             "dependencyKeys": [
                 "voices/Leon/Audio/leon_audio.bundle"
             ]
+        },
+        {
+            "key": "voices/AdaWong/Audio/adawong_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/AdaWong/Voices/adawong_voice.bundle",
+            "dependencyKeys": [
+                "voices/AdaWong/Audio/adawong_audio.bundle"
+            ]
         }
     ]
 }

@@ -22,5 +22,13 @@
     "name": "Leon",
     "bundlePath": "voices/Leon/Voices/leon_voice.bundle",
     "addVoiceToPlayer": true
+  },
+  "69c3100ba6ba7b2073037596": {
+    "locales": {
+      "en": "Ada Wong"
+    },
+    "name": "Ada Wong",
+    "bundlePath": "voices/AdaWong/Voices/adawong_voice.bundle",
+    "addVoiceToPlayer": true
   }
 }
