@@ -30,5 +30,21 @@
     "name": "Ada Wong",
     "bundlePath": "voices/AdaWong/Voices/adawong_voice.bundle",
     "addVoiceToPlayer": true
+  },
+  "69c3100ba6ba7b2073037597": {
+    "locales": {
+      "en": "Stalker Bandit"
+    },
+    "name": "Stalker Bandit",
+    "bundlePath": "voices/Bandit/Voices/bandit_voice.bundle",
+    "addVoiceToPlayer": true
+  },
+  "69c3100ba6ba7b2073037598": {
+    "locales": {
+      "en": "Talon"
+    },
+    "name": "Talon",
+    "bundlePath": "voices/Talon/Voices/talon_voice.bundle",
+    "addVoiceToPlayer": true
   }
 }

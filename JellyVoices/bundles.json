@@ -39,6 +39,26 @@
             "dependencyKeys": [
                 "voices/AdaWong/Audio/adawong_audio.bundle"
             ]
+        },
+        {
+            "key": "voices/Bandit/Audio/bandit_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Bandit/Voices/bandit_voice.bundle",
+            "dependencyKeys": [
+                "voices/Bandit/Audio/bandit_audio.bundle"
+            ]
+        },
+        {
+            "key": "voices/Talon/Audio/talon_audio.bundle",
+            "dependencyKeys": []
+        },
+        {
+            "key": "voices/Talon/Voices/talon_voice.bundle",
+            "dependencyKeys": [
+                "voices/Talon/Audio/talon_audio.bundle"
+            ]
         }
     ]
 }
